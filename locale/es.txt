@@ -1,0 +1,44 @@
+#: locale=es
+
+## Media
+
+### Audio
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.mp3Url = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.mp3
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+audiores_182E4591_006A_01F9_4122_529B86FC1750.oggUrl = media/audio_186CE5C0_005A_0157_412E_C93300CBFC00_es.ogg
+
+### Título
+panorama_1AF5744A_002A_076B_4139_83FF02EE9438.label = 1
+panorama_1A179BE5_002E_0159_413B_FE0D3153E52E.label = 2_V2
+panorama_19A6C2B8_002A_0337_4143_E1E1E5F5BF88.label = 3
+panorama_F65F8163_F8A7_1445_41EC_057C310F2A20.label = 4
+panorama_F65EDC78_F8A7_2C42_41E2_E28CDEB76272.label = 5
+panorama_F65F0821_F8A7_33C5_41E8_CFC900DB3A0A.label = 6
+panorama_F65F729F_F8A7_14FE_41E8_7E4A5D335B43.label = 7
+panorama_1A5B3665_002E_0359_4153_A99B10EFC497.label = NUEVOS Y VIEJOS VR_3 - Panorama
+panorama_F6CD093B_FAA1_954C_41E9_4EF0826168C4.label = NUEVOS Y VIEJOS VR_4 - Panorama
+panorama_1A5A9572_002A_013B_4138_12F179C6C5EC.label = NUEVOS Y VIEJOS VR_5 - Panorama
+panorama_19AA9BC4_002A_015F_4129_C77591436820.label = NUEVOS Y VIEJOS VR_6 - Panorama
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = QUINTA SANTA LUCIA
+
+## Ventana
+
+### Cuerpo
+htmlText_1603A9D3_005A_0179_4119_F76F597CA3A8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';">La </SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"><B>Casa Club</B></SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"> cuenta con 218,5 m2 de construcción y dispone de áreas para billar, cafetería, juegos de mesa, cine, comedores y salas de estar.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_19D41DA3_0056_01D9_4130_6251D75A8BC2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';">La </SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"><B>Zona Social</B></SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"> dispone de una piscina de 142m2 con 33m2 de vestidores, 48m2 de áreas cubiertas con hamacas, un salón de eventos de 48m2 y una cancha de 104m2.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_1A30B54B_0056_0169_414D_6E6679588A72.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';">Nuestras </SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"><B>Casas Modelo</B></SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"> cuentan con un área de 124m2 y una </SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"><B>Pérgola Exterior</B></SPAN><SPAN STYLE="font-size:33px;font-family:'Barlow Condensed';"> de 34m2.</SPAN></SPAN></DIV></BODY></HTML></div>
